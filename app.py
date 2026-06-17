@@ -1,0 +1,1 @@
+print ("Hola, esta es una aplicacion dockerizada con Python")
